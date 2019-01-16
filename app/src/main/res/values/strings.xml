@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment App</string>
+    <string name="remove_dialog_title">Remove Picture</string>
+    <string name="remove_dialog_message">Do you want to remove this image from your profile</string>
+    <string name="remove_dialog_positive">Confirm</string>
+    <string name="remove_dialog_negative">Cancel</string>
+
+</resources>
